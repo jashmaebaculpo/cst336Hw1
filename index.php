@@ -2,7 +2,7 @@
 <html>
 
     <head>
-        <meta charset=”utf-8” />
+        <meta charset = "utf-8" />
 
         <title> 
             Progamming Languages
@@ -29,8 +29,7 @@
         
         <nav>
             
-            <hr width = "50%"/>
-            <a href = "index.php"> Home</a>
+            <a href = "index.html"> Home</a>
             <a href = "BE.html"> Back-End</a>
             <a href = "FE.html"> Front-End</a>
             <a href = "RL.html"> Random Languages</a>
@@ -38,13 +37,11 @@
         
         <main>
             <div id = "welcomeText" >
-                <p></p>
-                <p>
-                    <big>
-                        In order for programmers to make youur favorite applications or games,
-                        there has to be a way to create those. It generally is made up of instructions that
-                        is read and followed by a computer.
-                        <a href="https://www.computerhope.com/jargon/p/proglang.htm"></a>
+                <br>
+                    In order for programmers to make your favorite applications or games,
+                    there has to be a way to create those. It generally is made up of instructions that
+                    is read and followed by a computer.
+                    <a href="https://www.computerhope.com/jargon/p/proglang.htm"></a>
                         
                         There are many different types and that can get confusing quickly for the 
                         beginning programmer. But there are normally two general umbrella names for 
@@ -62,16 +59,16 @@
                             .
                         </p>
                         There are more languages than the ones on here, feel free to look for others and practice them!
-                    </big>
-                </p>
+
                   
                 <figure id = "confusing"> 
-                    <img src = "https://cdn0.iconfinder.com/data/icons/smiley-emoticons-handdrawn/100/11-512.png"/>
+                    <img src = "https://cdn0.iconfinder.com/data/icons/smiley-emoticons-handdrawn/100/11-512.png" alt = "confused">
                     <a href="https://www.iconfinder.com/icons/300033/asking_confused_emoji_emoticon_question_questioning_smiley_icon#size=256"></a>
                 </figure> 
                 
                 
             </div>
+        </main>
         
         <footer>
             <hr>
@@ -84,10 +81,11 @@
             
             <p>
                 2. 
-            <a href="https://www.iconfinder.com/icons/300033/asking_confused_emoji_emoticon_question_questioning_smiley_icon#size=256"> iconfinder.com</a
+            <a href="https://www.iconfinder.com/icons/300033/asking_confused_emoji_emoticon_question_questioning_smiley_icon#size=256"> iconfinder.com</a>
             </p>
+            
             <p>
-                <img src="/Portfolio-lab/img/CSUMB-logo.png"></img>
+                <img src="/Homework/img/CSUMB-logo.png" alt = "CSUMB Logo" />
             </p>
             <strong> Disclaimer: </strong>
             This is used for academic purposes only.
@@ -99,6 +97,5 @@
         </footer>
         
     </body>
-    <!-- closing body -->
 
 </html>

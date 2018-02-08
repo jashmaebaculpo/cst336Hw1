@@ -6,6 +6,7 @@ body
 header, nav, footer
 {
     text-align: center;
+    width: 50%;
 }
 
 nav a /* links within "nav" container*/
