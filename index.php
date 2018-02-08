@@ -28,6 +28,7 @@
         </header>
         
         <nav>
+            
             <hr width = "50%"/>
             <a href = "index.php"> Home</a>
             <a href = "BE.html"> Back-End</a>
@@ -37,6 +38,7 @@
         
         <main>
             <div id = "welcomeText" >
+                <p></p>
                 <p>
                     <big>
                         In order for programmers to make youur favorite applications or games,
